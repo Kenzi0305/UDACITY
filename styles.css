@@ -1,0 +1,55 @@
+.body {
+  text-align: center;
+  border: 2px solid red;
+  padding: 0.5em;
+  margin: 0.5em;
+  width: 320px;
+  height: 770px;
+  text-align: center;
+
+
+}
+
+
+
+.p1 {
+  font-style: italic;
+  text-align: center;
+  
+
+}
+
+.span {
+  font-weight: Bold;
+  
+
+}
+.red_box{
+  border: 2px solid red;
+  padding: 0.5em;
+  margin: 0.5em;
+  width: 320px;
+  height: 770px;
+
+
+}
+
+
+.box {
+  border: 2px solid ;
+    padding: 0.5em;
+    width: 150px;
+    height: 510px;
+ 
+}
+
+
+
+
+
+
+
+  
+  
+    
+  
